@@ -18,7 +18,7 @@ require (
 	github.com/filecoin-project/chain-validation v0.0.6-0.20200720093255-843129967fdf
 	github.com/filecoin-project/filecoin-ffi v0.30.4-0.20200716204036-cddc56607e1d
 	github.com/filecoin-project/go-address v0.0.2-0.20200504173055-8b6f2fb2b3ef
-	github.com/filecoin-project/go-amt-ipld/v2 v2.0.1-0.20200424220931-6263827e49f2
+	github.com/filecoin-project/go-amt-ipld/v2 v2.0.1-0.20200714161347-fbee6e96f694
 	github.com/filecoin-project/go-bitfield v0.0.4-0.20200703174658-f4a5758051a1
 	github.com/filecoin-project/go-cbor-util v0.0.0-20191219014500-08c40a1e63a2
 	github.com/filecoin-project/go-crypto v0.0.0-20191218222705-effae4ea9f03
@@ -30,7 +30,7 @@ require (
 	github.com/filecoin-project/go-statestore v0.1.0
 	github.com/filecoin-project/go-storedcounter v0.0.0-20200421200003-1c99c62e8a5b
 	github.com/filecoin-project/sector-storage v0.0.0-20200717213554-a109ef9cbeab
-	github.com/filecoin-project/specs-actors v0.8.1-0.20200720115956-cd051eabf328
+	github.com/filecoin-project/specs-actors v0.8.1-0.20200722164848-25409283f9bf
 	github.com/filecoin-project/specs-storage v0.1.1-0.20200622113353-88a9704877ea
 	github.com/filecoin-project/storage-fsm v0.0.0-20200720190000-2cfe2fe3c334
 	github.com/gbrlsnchs/jwt/v3 v3.0.0-beta.1
